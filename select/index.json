@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Young And Beautiful",
+  "base_artist": "Lana Del Rey",
+  "createdAt": "2026-02-27T04:31:46.218858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Young and Beautiful",
+      "artist": "Scott Bradlee & Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/01_Young_and_Beautiful_Scott_Bradlee_&_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Young And Beautiful",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/02_Young_And_Beautiful_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Young and Beautiful",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/03_Young_and_Beautiful_Prince.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Young and Beautiful",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/04_Young_and_Beautiful_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Young and Beautiful",
+      "artist": "Danzig",
+      "has_synced": true,
+      "path": "select/05_Young_and_Beautiful_Danzig.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Young and Beautiful",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/06_Young_and_Beautiful_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Young and Beautiful (DH Orchestral Version)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/07_Young_and_Beautiful_(DH_Orchestral_Version)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Young And Beautiful",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/08_Young_And_Beautiful_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Young And Beautiful",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/09_Young_And_Beautiful_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Young and Beautiful",
+      "artist": "Martin Sexton",
+      "has_synced": false,
+      "path": "select/10_Young_and_Beautiful_Martin_Sexton.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Young And Beautiful - Takes 21-22",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/11_Young_And_Beautiful_-_Takes_21-22_Elvis_Presley.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We're Young and Beautiful",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/12_We're_Young_and_Beautiful_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Keep Young and Beautiful",
+      "artist": "Annie Lennox",
+      "has_synced": true,
+      "path": "select/13_Keep_Young_and_Beautiful_Annie_Lennox.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Young and Beautiful",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/14_Young_and_Beautiful_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Young and Beautiful",
+      "artist": "Lana Del Rey",
+      "has_synced": false,
+      "path": "select/pl_01_Young_and_Beautiful_Lana_Del_Rey.txt"
+    }
+  ]
+}
